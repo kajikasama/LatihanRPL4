@@ -11,31 +11,32 @@ menambahkan gambar
 
 menambahkan : 
 
---form biodata
---form carikotadialog
---form form1
---form datakota
---form dataortu
---form2 dialog
---form halaman1
---form kota
---form kotadialog
---form latihancombobox
---form latihanradiobutton
---form LatihaRPPL4
---form orangtua
+--form biodata <br>
+--form carikotadialog <br>
+--form form1 <br>
+--form datakota <br>
+--form dataortu <br>
+--form dialog <br>
+--form halaman1 <br>
+--form kota <br>
+--form kotadialog <br>
+--form latihancombobox <br>
+--form latihanradiobutton <br>
+--form LatihaRPPL4 <br>
+--form orangtua <br>
 
---form updatependaftar
---form updateprogram
---form updatesekolah
---form updateprogram
---form updateprogramdialog
---form orangtua
---form ortudialog
---form pendaftar
---form program
---form programdialog
---form sekolah
---form sekolahdialog
---form updateortudialog
---form updatependaftar
+--form updatependaftar <br>
+--form updateprogram <br>
+--form updatesekolah <br>
+--form updateprogram <br>
+--form updateprogramdialog <br>
+--form orangtua <br>
+--form ortudialog <br>
+--form pendaftar <br>
+--form program <br>
+--form programdialog <br>
+--form sekolah <br>
+--form sekolahdialog <br>
+--form updateortudialog <br>
+--form updatependaftar <br>
+
