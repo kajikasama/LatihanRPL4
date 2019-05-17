@@ -1,5 +1,5 @@
 # LatihanRPL4
-aplikasi java dari awal semester sampai akhir semester
+Project java dari awal semester sampai akhir semester Kelas XII RPL4
 
 pemrograman berbasis object java
 
